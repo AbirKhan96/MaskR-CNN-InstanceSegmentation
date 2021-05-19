@@ -1,0 +1,30 @@
+sudo apt install virtualenv
+
+virtualenv -p python3 myenv
+
+source myenv/bin/activate
+
+sudo apt install git
+
+git clone https://github.com/facebookresearch/detectron2.git
+
+cd detectron2
+
+pip install torch==1.7.1+cu101 torchvision==0.8.2+cu101 torchaudio==0.7.2 -f https://download.pytorch.org/whl/torch_stable.html
+
+pip install opencv-python
+
+pip install cython
+
+sudo apt-get install python3 python-dev python3-dev \
+>      build-essential libssl-dev libffi-dev \
+>      libxml2-dev libxslt1-dev zlib1g-dev \
+>      python-pip
+
+pip install git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI
+
+pip install -e .
+
+pip install jupyter
+
+python3 -m jupyter notebook

@@ -1,0 +1,36 @@
+{
+    "images": [
+        {
+            "height": 4608,
+            "width": 9216,
+            "image_id": 0,
+            "file_name": "Track_A-Ladybug-1060.JPG"
+        },
+        {
+            "height": 4608,
+            "width": 9216,
+            "image_id": 1,
+            "file_name": "Track_A-Ladybug-1064.JPG"
+        },
+        {
+            "height": 4608,
+            "width": 9216,
+            "image_id": 2,
+            "file_name": "Track_A-Ladybug-1086.JPG"
+        },
+        {
+            "height": 4608,
+            "width": 9216,
+            "image_id": 3,
+            "file_name": "Track_A-Ladybug-1073.JPG"
+        },
+        {
+            "height": 4608,
+            "width": 9216,
+            "image_id": 4,
+            "file_name": "Track_A-Ladybug-1099.JPG"
+        }
+    ],
+    "categories": [],
+    "annotations": []
+}
