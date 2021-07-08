@@ -1,1 +1,1 @@
-- [Base_prediction_code](https://github.com/AbirKhan96/MaskR-CNN-InstanceSegmentation/blob/main/src/Base_prediction_code.py) consist of prediction pipeline. To run the code on a tree folder. 
+ - [Base_prediction_code](https://github.com/AbirKhan96/MaskR-CNN-InstanceSegmentation/blob/main/src/Base_prediction_code.py) consist of prediction pipeline. To run the code on a tree folder. 
