@@ -7,7 +7,7 @@ MODEL_BASE = Path('store') / 'model'
 class TrainConfig:
 
     max_iter = 10000
-    base_lr = 0.00025
+    base_lr =  0.0025 #0.00025
     batch_size_per_img = 256
     num_workers = 25  # os.cpu_count()
     ims_per_batch = 16
@@ -34,8 +34,8 @@ class DataConfig:
         all_jsons_dir = str(DATA_BASE / 'Allowed_Classes' / 'all_jsons') + '/'
         split_dataset_dir = str(DATA_BASE / 'Allowed_Classes') + '/'
 
-        train_test_split = 0.7
-        test_hldt_split = 0.5
+        train_test_split = 0.9
+        test_hldt_split = 0.4
 
         to_shape = (9216, 4608)
         ALLOWED_CLASSES = [
