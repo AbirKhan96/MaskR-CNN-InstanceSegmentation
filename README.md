@@ -11,4 +11,4 @@
  - [get_pixel_pcmc.py](https://github.com/AbirKhan96/MaskR-CNN-InstanceSegmentation/blob/main/get_pixel_pcmc.py) Creates a csv file with pixel info.
  - [PCMC_lidar_part.py](https://github.com/AbirKhan96/MaskR-CNN-InstanceSegmentation/blob/main/PCMC_lidar_part.py) Code to generating lidar point and Shape file.
  - [altitude_estimation.py](https://github.com/AbirKhan96/MaskR-CNN-InstanceSegmentation/blob/main/altitude_estimation.py) Run this code after [PCMC_lidar_part.py](https://github.com/AbirKhan96/MaskR-CNN-InstanceSegmentation/blob/main/PCMC_lidar_part.py) to get the height of asset in csv.
- ![plot](https://github.com/AbirKhan96/SampleImages_AI-ML/blob/main/Lidar..png) :dart: Lidar looks like in Fugro viewer.  
+ ![plot](https://github.com/AbirKhan96/SampleImages_AI-ML/blob/main/Lidar..png) :dart: **Lidar looks like in Fugro viewer.  
