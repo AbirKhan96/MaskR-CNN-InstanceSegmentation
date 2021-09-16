@@ -1,7 +1,8 @@
 # MaskR-CNN-Instance Segmentation & Detection & OCR Pipeline 
 ## Facebook AI Research's (FAIR'S) Created ---> PyTorch is an open source machine learning library ---> new framework is called Detectron2 which is implemented in Pytorch.
  ![plot](https://github.com/AbirKhan96/SampleImages_AI-ML/blob/main/Track_A-Ladybug-1285.jpg) :dart: **Output of Mask R-CNN .**
-
+ 
+## Code with Description
  - [Folder_Rename.py](https://github.com/AbirKhan96/MaskR-CNN-InstanceSegmentation/blob/main/src/Folder_Rename.py) This code is use to rename the json file with folder name before it.
  - [DataCleaner_Error_find.py](https://github.com/AbirKhan96/MaskR-CNN-InstanceSegmentation/blob/main/src/DataCleaner_Error_find.py) Get the count of Data and list of Assets and if there is any error in polygon.
  - [Base_Training_code.ipynb](https://github.com/AbirKhan96/MaskR-CNN-InstanceSegmentation/blob/main/src/Base_Training_code.ipynb) Training code 
